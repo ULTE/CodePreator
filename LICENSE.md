@@ -188,7 +188,7 @@
       identification within third-party archives.
 
    Copyright 2025-present ULTE Open Source Group. All rights reserved.
-   CodePreator's development is led by Yinan Li (MacroModel). If you mention the software in a publication, please include the citation below:
+   Preator's development is led by Yinan Li (MacroModel). If you mention the software in a publication, please include the citation below:
    * Li, Y. (2025). AI4SE Research Group, School of Computer Science and Information Engineering in Shanghai Institute of Technology.
 
    Licensed under the Apache License, Version 2.0 (the "License");
